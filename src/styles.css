@@ -1,0 +1,8 @@
+@import "bootstrap/dist/css/bootstrap.css";
+
+h2{
+    text-align: center;
+    color: green;
+    text-decoration: underline;
+    margin-top:20px;
+}
